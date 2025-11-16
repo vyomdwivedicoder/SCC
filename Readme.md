@@ -30,4 +30,7 @@ Student Command Center (SCC) is an AI-powered toolbox designed to help students 
 
 ```bash
 pip install -r requirements.txt
+
 streamlit run app.py
+```
+- For installation and proper functioning you will need to add GROQ_API_KEY to .streamlit/secrets.toml
